@@ -1,11 +1,13 @@
 # JCStancil.github.io
 
-Jason Stancil
-Brief description of your Github account
-Brief description of repository
-Brief description of steps
+## Jason Stancil
+This is my Github account I will be using for CTI110
 
-Modified some stuff to show the changes
+This repository is for the lesson 6 lab in CTI110
+
+First you click add a new repository, then add the name. After that click Add README then create a repository.
+
+I modified some stuff to show the changes
 ```python
 print("hello, World!")
 ```
